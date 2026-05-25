@@ -1,0 +1,14 @@
+# TARS-Mini v2 dependencies
+# Install with: pip install -r requirements.txt
+
+anthropic>=0.25.0
+faster-whisper>=1.0.0
+pyaudio>=0.2.13
+numpy>=1.24.0
+openwakeword>=0.6.0
+
+# Silero VAD — replaces raw RMS end-of-utterance detection
+# torch is a heavy install on Pi (~800MB); be patient
+torch>=2.0.0
+torchaudio>=2.0.0
+silero-vad>=5.0

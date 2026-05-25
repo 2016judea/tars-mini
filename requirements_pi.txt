@@ -1,0 +1,2 @@
+# Pi dependencies — minimal, no AI stack needed
+pyaudio>=0.2.13

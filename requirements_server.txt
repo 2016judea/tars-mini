@@ -1,0 +1,8 @@
+# Server (main computer) dependencies — full AI stack
+anthropic>=0.25.0
+faster-whisper>=1.0.0
+numpy>=1.24.0
+openwakeword>=0.6.0
+torch>=2.0.0
+torchaudio>=2.0.0
+silero-vad>=5.0

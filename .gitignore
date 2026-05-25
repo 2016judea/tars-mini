@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv_server/
+
+# Model files — large binaries, download separately
+*.onnx
+*.onnx.json
+*.tflite
+*.ort
+espeak-ng-data/
+
+# Piper binaries
+piper.exe
+piper/
+*.dll
+pkgconfig/
+
+# Audio
+*.wav
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
