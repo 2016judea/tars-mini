@@ -44,7 +44,7 @@ Pi mic → TCP → Server (Whisper + Claude + Piper) → TCP → Pi speaker
 
 ```bash
 # Clone and run setup
-git clone https://github.com/aidanjude/tars-mini
+git clone https://github.com/2016judea/tars-mini
 cd tars-mini
 chmod +x setup.sh && ./setup.sh
 ```
